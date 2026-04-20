@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+AI+that+thinks%2C+learns+%26+solves+real+problems...;Crafting+Full-Stack+%26+Blockchain+solutions...;MCA+%40+Chandigarh+University+%7C+Open+to+Collaborate...;Turning+ideas+into+impactful+tech+products+%F0%9F%9A%80)](https://github.com/dev-yashgupta)
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/developer-yash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-yashgupta)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-yashgupta)
 [![Profile Views](https://visitcount.itsvg.in/api?id=developer-yashgupta&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
@@ -161,6 +161,6 @@ From architecting **Sofia**, a conversational AI assistant, to developing the **
 
 **Let's build something extraordinary together. 🚀**
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/developer-yash)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-yashgupta/)
 
 </div>
