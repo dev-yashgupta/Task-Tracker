@@ -1,166 +1,266 @@
-<!-- Header Banner -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Yash%20Gupta&fontSize=55&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Innovator%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50&fontColor=ffffff&animation=twinkling&cache=3" width="100%" alt="Yash Gupta - Software Engineer & AI Innovator" />
+</div>
 
-[![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=280&section=header&text=Yash%20Gupta&fontSize=80&fontAlignY=38&desc=AI%20Innovator%20%7C%20Full-Stack%20Engineer%20%7C%20Blockchain%20Builder&descSize=18&descAlignY=62&fontColor=ffffff&animation=fadeIn)](https://github.com/dev-yashgupta)
+<div align="center">
+  <a href="https://developer-yashgupta.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/dev-yashgupta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/yashgupta_exe" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="mailto:yashgupta9437@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/dev-yashgupta" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+AI+that+thinks%2C+learns+%26+solves+real+problems...;Crafting+Full-Stack+%26+Blockchain+solutions...;MCA+%40+Chandigarh+University+%7C+Open+to+Collaborate...;Turning+ideas+into+impactful+tech+products+%F0%9F%9A%80)](https://github.com/dev-yashgupta)
+<br>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-yashgupta)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-yashgupta)
-[![Profile Views](https://visitcount.itsvg.in/api?id=developer-yashgupta&label=Profile%20Views&color=6&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Full-Stack+Applications...;Crafting+AI-Powered+Solutions+for+Real-World+Impact...;Blockchain+%7C+Web+%7C+App+%7C+AI+Development...;Transforming+Ideas+Into+Production-Ready+Software...;Open+Source+Contributor+%26+Community+Builder...">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Full-Stack+Applications...;Crafting+AI-Powered+Solutions+for+Real-World+Impact...;Blockchain+%7C+Web+%7C+App+%7C+AI+Development...;Transforming+Ideas+Into+Production-Ready+Software...;Open+Source+Contributor+%26+Community+Builder...">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Full-Stack+Applications...;Crafting+AI-Powered+Solutions+for+Real-World+Impact...;Blockchain+%7C+Web+%7C+App+%7C+AI+Development...;Transforming+Ideas+Into+Production-Ready+Software...;Open+Source+Contributor+%26+Community+Builder..." alt="Typing SVG" />
+  </picture>
+</div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dev-yashgupta&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/dev-yashgupta?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/dev-yashgupta?label=Stars&style=social" alt="GitHub Stars" />
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Professional Summary
 
-I'm a **Software Engineer & AI Innovator** pursuing my **Master of Computer Applications (MCA) at Chandigarh University**. My passion lies at the intersection of **Artificial Intelligence, Blockchain, and Full-Stack Engineering** — building systems that don't just work, but make a difference.
+I'm a passionate **Software Engineer and AI Innovator** currently pursuing my **Master in Computer Application at Chandigarh University**, with deep expertise spanning **Artificial Intelligence, Blockchain, Full-Stack Web & App Development**. I build solutions that merge cutting-edge technology with real-world impact — from AI assistants to social-cause platforms.
 
-From architecting **Sofia**, a conversational AI assistant, to developing the **Basti Ki Pathshala** platform that brings quality education to underserved communities — every line of code I write carries purpose. I thrive on solving complex problems with elegant solutions and am always chasing the next breakthrough.
-
-- 🔭 **Currently Building:** AI-powered applications & Blockchain-based platforms
-- 🎓 **Education:** MCA — Chandigarh University
-- 🌱 **Exploring:** LLMs, Web3, Distributed Systems & Cloud Architecture
-- 🤝 **Open to:** Collaborations, Open Source, Freelance & Internship opportunities
-- 💡 **Belief:** *Technology should serve people — not the other way around.*
+- 🔭 **Currently Building:** [Sofia AI Assistant](https://github.com/dev-yashgupta/Sofia---Advanced-AI-Assistant) • [PulseFlow Analytics](https://github.com/dev-yashgupta/pulseFlow) • [HealthBridge AI](https://github.com/dev-yashgupta/helthbridge-ai)
+- 🌱 **Currently Learning:** Advanced Machine Learning, Blockchain Smart Contracts & Cloud-Native Architectures
+- 🤝 **Open to Collaborate on:** AI/ML Projects, Open Source Initiatives, Full-Stack Web Applications & Social Impact Tech
+- 📫 **Reach me at:** [yashgupta9437@gmail.com](mailto:yashgupta9437@gmail.com) | [Portfolio](https://developer-yashgupta.vercel.app)
+- ⚡ **Fun Fact:** I believe technology should serve humanity — from educating underprivileged children to predicting employee burnout!
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🛠️ Technical Arsenal
 
-**Languages**
+**Languages:**
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,php" alt="Languages" />
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,python,php,c,java,html,css)](https://skillicons.dev)
+**Frontend Development:**
+<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frontend" />
 
-**Frontend & Mobile**
+**Backend & Runtime:**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask" alt="Backend" />&nbsp;
+<img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS" style="vertical-align: top;" />
 
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,vite,reactnative)](https://skillicons.dev)
+**AI & Machine Learning:**
+<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI and ML" />&nbsp;
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="vertical-align: top;" />&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" style="vertical-align: top;" />&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" style="vertical-align: top;" />
 
-**Backend & APIs**
+**Blockchain & Web3:**
+<br>
+<img src="https://skillicons.dev/icons?i=solidity" alt="Blockchain" />&nbsp;
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" style="vertical-align: top;" />&nbsp;
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" style="vertical-align: top;" />
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,nginx,socketio)](https://skillicons.dev)
+**Database & DevOps:**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,linux,vercel" alt="Database and DevOps" />
 
-**AI / ML**
+<br>
 
-[![AI/ML](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-
-**Databases & Cloud**
-
-[![DB & Cloud](https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase,aws,azure,gcp,cloudflare,vercel,netlify)](https://skillicons.dev)
-
-**Tools & DevOps**
-
-[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,notion)](https://skillicons.dev)
-
-> **Core Strengths:** `REST API Design` • `Real-Time Systems` • `AI Integration` • `Blockchain Development` • `Cloud Deployment` • `System Architecture`
-
----
-
-### 🚀 Featured Projects
-
-#### 🤖 [Sofia — AI Conversational Assistant](https://github.com/dev-yashgupta)
-*Tech Stack: Python, FastAPI, React, TensorFlow, Socket.io*
-
-- Architected an intelligent conversational AI assistant capable of understanding context and generating human-like responses.
-- Built a real-time WebSocket communication layer for seamless chat interactions with sub-100ms latency.
-- Integrated custom NLP pipelines for intent classification, entity recognition, and dynamic response generation.
+**Core Competencies:**
+> `Full-Stack Architecture` • `AI/ML Integration` • `Blockchain Development` • `REST & GraphQL APIs` • `Cloud Deployment` • `Responsive UI/UX`
 
 ---
 
-#### 🎓 [Basti Ki Pathshala — EdTech for Social Impact](https://github.com/dev-yashgupta)
-*Tech Stack: React, Node.js, MongoDB, Firebase*
+### 🚀 Featured Projects & Open Source
 
-- Developed a full-stack digital learning platform empowering the **Basti Ki Pathshala Foundation** to reach underserved students at scale.
-- Engineered a live class streaming module, progress tracking dashboard, and role-based access system for tutors and students.
-- Deployed a mobile-responsive UI using React + Tailwind, ensuring accessibility across low-end devices.
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Sofia — Advanced AI Assistant</h3>
+      <p align="center">
+        <a href="https://github.com/dev-yashgupta/Sofia---Advanced-AI-Assistant" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="View Code" />
+        </a>
+      </p>
+      <p><strong>Tech Stack:</strong> Python, NLP, Cybersecurity APIs</p>
+      <ul>
+        <li>Built a personalized AI assistant with deep expertise in cybersecurity, programming, and technical research.</li>
+        <li>Integrated natural language understanding for complex multi-domain queries and intelligent response generation.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">PulseFlow — AI Analytics Platform</h3>
+      <p align="center">
+        <a href="https://github.com/dev-yashgupta/pulseFlow" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="View Code" />
+        </a>
+      </p>
+      <p><strong>Tech Stack:</strong> TypeScript, Next.js, AI/ML Models</p>
+      <ul>
+        <li>AI-powered analytics platform connecting employee wellbeing with business outcomes.</li>
+        <li>Real-time burnout prediction engine and team performance optimization dashboard.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">HealthBridge AI Platform</h3>
+      <p align="center">
+        <a href="https://github.com/dev-yashgupta/helthbridge-ai" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="View Code" />
+        </a>
+      </p>
+      <p><strong>Tech Stack:</strong> Next.js, TypeScript, scikit-learn, Node.js</p>
+      <ul>
+        <li>Full-stack health technology platform offering real-time disease prediction leveraging ML models.</li>
+        <li>Secure data workflow for symptom ingestion, feature extraction, and high-confidence classification via REST APIs.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">Basti Ki Pathshala Foundation</h3>
+      <p align="center">
+        <a href="https://github.com/dev-yashgupta/Basti-Ki-Pathshala-Foundation" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="View Code" />
+        </a>
+      </p>
+      <p><strong>Tech Stack:</strong> EJS, Node.js, Express, MongoDB</p>
+      <ul>
+        <li>Comprehensive web platform for an NGO providing quality education to children in slum communities across India.</li>
+        <li>Features donation system, volunteer coordination, and impact showcase with responsive design.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">TikTok India Clone</h3>
+      <p align="center">
+        <a href="https://github.com/dev-yashgupta/TikTok-India" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="View Code" />
+        </a>
+      </p>
+      <p><strong>Tech Stack:</strong> JavaScript, Node.js, Express</p>
+      <ul>
+        <li>Full-featured short-video platform with login, profile management, content discovery, and notifications.</li>
+        <li>Seamless user experience with real-time content feeds and social interaction features.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">AR Shop — Augmented Reality</h3>
+      <p align="center">
+        <a href="https://github.com/dev-yashgupta/AR-Shop" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="View Code" />
+        </a>
+      </p>
+      <p><strong>Tech Stack:</strong> Flutter, Dart, AR Core</p>
+      <ul>
+        <li>Augmented Reality shopping experience allowing users to visualize products in their space before purchasing.</li>
+        <li>Cross-platform mobile application with immersive 3D product rendering.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-#### ⛓️ Blockchain Platform
-*Tech Stack: Web3.js, Solidity, React, Node.js*
+### 🏆 Milestones & Achievements
 
-- Designed and deployed smart contracts for decentralized application workflows on Ethereum-compatible networks.
-- Integrated wallet connectivity (MetaMask) and on-chain transaction management into a responsive React frontend.
-
----
-
-### 🏆 Achievements & Highlights
-
-- 🎓 **MCA @ Chandigarh University** — Specializing in AI & Full-Stack Engineering
-- 🤖 **Built Sofia** — A production-grade AI assistant combining NLP and real-time communication
-- 💚 **Social Impact** — Tech contributor to *Basti Ki Pathshala Foundation*, bridging the digital education gap
-- ⛓️ **Blockchain Builder** — Hands-on experience with smart contracts, DApps & Web3 integrations
-- ☁️ **Multi-Cloud Certified** — Deployed production apps across AWS, Azure & Google Cloud Platform
-- 🌐 **Open Source Contributor** — Actively building and contributing to the developer community
+- 🎓 **Education:** Pursuing **Master in Computer Application** at **Chandigarh University** (Aug 2025 — Present)
+- 💼 **Freelance Web Developer:** Delivered landing pages & dashboards for 3+ clients, optimized front-end performance and mobile responsiveness
+- 📜 **Certifications:**
+  - Introduction to AI, Data Science, NLP, Deep Learning & Computer Vision — **Wingspan**
+  - Introduction to AI & Java Programming — **Chandigarh University Advance Credit Program**
+  - Python (Basic) & JavaScript (Intermediate) — **HackerRank**
+- 🌍 **Social Impact:** Founded **Basti Ki Pathshala Foundation** digital platform — providing quality education to underprivileged children
 
 ---
 
-### 📊 GitHub Analytics
+### 📈 GitHub Activity & Analytics
 
 <div align="center">
+  <a href="https://github.com/dev-yashgupta">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=dev-yashgupta&show_icons=true&hide_border=true&border_radius=10&theme=radical&v=2" height="190" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/dev-yashgupta">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dev-yashgupta&layout=compact&hide_border=true&border_radius=10&theme=radical&v=2" height="190" alt="Top Languages" />
+  </a>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=developer-yashgupta&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+<br>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=developer-yashgupta&theme=tokyonight&hide_border=true)
+<div align="center">
+  <a href="https://github.com/dev-yashgupta">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-yashgupta&hide_border=true&border_radius=10&theme=radical&v=1" alt="GitHub Streak" />
+  </a>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-yashgupta&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+<br>
 
+<div align="center">
+  <a href="https://github.com/dev-yashgupta">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-yashgupta&theme=redical&custom_title=Contribution%20Graph&hide_border=true&area=true&v=1" width="95%" alt="Activity Graph" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-yashgupta&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" width="95%" alt="GitHub Trophies" />
 </div>
 
 ---
 
-### 🏅 GitHub Trophies
-
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=developer-yashgupta&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
+### 🤝 Let's Connect & Build Together!
+
+<p>I'm always excited to collaborate on innovative projects, discuss technology, or brainstorm ideas that can make a real difference.</p>
+
+<a href="https://developer-yashgupta.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF5722?style=for-the-badge" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/dev-yashgupta" target="_blank">
+  <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" />
+</a>
+<a href="mailto:yashgupta9437@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Send_an_Email-D14836?style=for-the-badge" alt="Email" />
+</a>
 
 </div>
 
----
-
-### 📈 Contribution Activity
+<br>
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=developer-yashgupta&theme=tokyo-night&custom_title=Yash's%20Contribution%20Graph&hide_border=true&area=true)](https://github.com/dev-yashgupta)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-yashgupta/dev-yashgupta/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-yashgupta/dev-yashgupta/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/dev-yashgupta/dev-yashgupta/output/github-snake-dark.svg" alt="Snake animation" />
+  </picture>
 </div>
 
----
-
-### 🔝 Top Contributed Repositories
+<br>
 
 <div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=developer-yashgupta&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+  <p><i>✨ Transforming ideas into intelligent solutions — one commit at a time. ✨</i></p>
 </div>
 
----
-
-### ✍️ Dev Thought of the Day
-
 <div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-*"Code is not just instructions for machines — it's a conversation with the future."*
-
-**Let's build something extraordinary together. 🚀**
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-yashgupta/)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer" />
 </div>
