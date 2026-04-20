@@ -12,7 +12,7 @@
   <a href="https://www.hackerrank.com/profile/yashgupta_exe" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href="mailto:yashgupta9437@gmail.com" target="_blank">
+  <a href="mailto:yashgupta.exe@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/dev-yashgupta" target="_blank">
@@ -45,7 +45,7 @@ I'm a passionate **Software Engineer and AI Innovator** currently pursuing my **
 - 🔭 **Currently Building:** [Sofia AI Assistant](https://github.com/dev-yashgupta/Sofia---Advanced-AI-Assistant) • [PulseFlow Analytics](https://github.com/dev-yashgupta/pulseFlow) • [HealthBridge AI](https://github.com/dev-yashgupta/helthbridge-ai)
 - 🌱 **Currently Learning:** Advanced Machine Learning, Blockchain Smart Contracts & Cloud-Native Architectures
 - 🤝 **Open to Collaborate on:** AI/ML Projects, Open Source Initiatives, Full-Stack Web Applications & Social Impact Tech
-- 📫 **Reach me at:** [yashgupta9437@gmail.com](mailto:yashgupta9437@gmail.com) | [Portfolio](https://developer-yashgupta.vercel.app)
+- 📫 **Reach me at:** [yashgupta.exe@gmail.com](mailto:yashgupta.exe@gmail.com) | [Portfolio](https://developer-yashgupta.vercel.app)
 - ⚡ **Fun Fact:** I believe technology should serve humanity — from educating underprivileged children to predicting employee burnout!
 
 ---
@@ -80,7 +80,7 @@ I'm a passionate **Software Engineer and AI Innovator** currently pursuing my **
 
 **Database & DevOps:**
 <br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,linux,vercel" alt="Database and DevOps" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,linux,vercel,aws,render,cloude" alt="Database and DevOps" />
 
 <br>
 
@@ -239,7 +239,7 @@ I'm a passionate **Software Engineer and AI Innovator** currently pursuing my **
 <a href="https://www.linkedin.com/in/dev-yashgupta" target="_blank">
   <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn" />
 </a>
-<a href="mailto:yashgupta9437@gmail.com">
+<a href="mailto:yashgupta.exe@gmail.com">
   <img src="https://img.shields.io/badge/📧_Send_an_Email-D14836?style=for-the-badge" alt="Email" />
 </a>
 
